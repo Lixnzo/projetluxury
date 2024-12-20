@@ -25,4 +25,4 @@ Personnalisation des icônes pour harmoniser avec notre thème.
 
 Nettoyage du code inutile ou redondant laissé par le template original.
 Amélioration des performances (optimisation des images, réduction des temps de chargement).
-Compatibilité renforcée avec les navigateurs modernes et les appareils mobiles.
+Compatibilité renforcée avec les navigateurs modernes et les appareils mobiles.# lux-vintage
